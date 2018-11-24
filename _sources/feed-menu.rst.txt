@@ -1,0 +1,21 @@
+Feed menu
+=========
+
+Sign In...
+   Sign into your TrueFX account.
+Sign Out
+   Sign out of your TrueFX account, and clear the saved password.
+Symbols...
+   Customize the symbols available by with WebQuery, and displayed in the Dealing Rates table.
+Pause
+   Stop updating from the data feed.
+Resume
+   Use Resume if your computer has been sleeping, or you manually paused the data feed.
+Reload
+   Reload the current market data.
+Recalculate
+   Recalculate the Pip Cost.
+Options (or Preferences)
+   Show the Preferences dialog.
+Exit (or Quit)
+   Close all Benchmark windows and quit.

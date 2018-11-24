@@ -1,0 +1,5 @@
+WebQuery
+========
+
+The WebQuery API Documentation is on the
+`Benchmark Homepage <http://www.beantrader.com.au/products/benchmark/index.php?page_id=450>`_

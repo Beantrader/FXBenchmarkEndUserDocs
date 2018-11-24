@@ -1,0 +1,31 @@
+Dealing Rates Widget
+====================
+
+The Dealing Rates Widget, introduced in Benchmark 1.2, displays information on a specific symbol in a floating window.
+
+.. image:: images/dealing-rates-widget.png
+   :width: 440px
+   :height: 320px
+   :alt: Dealing Rates Widget parts
+
+1. Symbol
+2. Spread
+3. Time
+4. Low
+5. High
+6. Bid
+7. Ask
+
+
+Opening a Widget
+----------------
+
+To open a widget double click on a symbol in the Dealing Rates table, the widget updates using the same prices as the Dealing Rates table. You can open as many widgets as you require.
+
+You can close or minimize the Dealing Rates table if a widget is displayed. Double click the widget to show the Dealing Rates table again.
+
+
+Moving a Widget
+---------------
+
+The widget stays on top of other windows, so it can be moved onto charts provided by Latinum or another charting package. The widget can be moved by clicking the left mouse button anywhere on the widget and then and dragging it into position.

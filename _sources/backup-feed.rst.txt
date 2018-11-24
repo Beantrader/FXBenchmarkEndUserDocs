@@ -1,0 +1,25 @@
+Backup Feed
+===========
+
+New in Benchmark 1.2.1, the 
+*TrueFX-Beantrader* server provides the same market data provided by the *TrueFX* server. It provides a backup feed for use when the main server is unavailable (e.g. during weekend maintenance).
+
+.. note::
+   The backup feed will 
+   **not** automatically be used if the main server is offline, it must be explicitly configured in the Preferences (or Options) dialog box.
+
+
+To switch to the backup feed
+----------------------------
+
+1. From the main menu bar
+
+   * **Mac users**: select **Preferences** from the **Benchmark** menu
+   * **Windows/Linux users**: select **Options** from the **Feed** menu
+
+2. Locate the **Server** combobox or drop down
+
+   * to use the backup feed select **TrueFX-Beantrader**, or
+   * to use the main feed select **TrueFX**.
+
+3. Select **OK** to apply the changes.
